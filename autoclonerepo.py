@@ -3,9 +3,9 @@ import base64
 import os
 
 # --- Configuration ---
-GITHUB_USERNAME = "sakshamxsharma"
-GITHUB_TOKEN = "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"
-PER_PAGE = 100
+GITHUB_USERNAME = ""
+GITHUB_TOKEN = ""
+PER_PAGE = 1000
 page = 1
 
 while True:
