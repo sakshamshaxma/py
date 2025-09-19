@@ -1,16 +1,16 @@
 import requests
 
 <<<<<<< HEAD
-GITHUB_USERNAME = "sakshamxsharma"
-TOKEN = "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"
+GITHUB_USERNAME = ""
+TOKEN = ""
 COLLABORATOR = "copilot-chat"
 
 =======
 # Replace with your GitHub username, token, and collaborator username
 
-GITHUB_USERNAME = "sakshamxsharma"
+GITHUB_USERNAME = ""
 
-TOKEN = "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"
+TOKEN = ""
 
 COLLABORATOR = "copilot-chat"
 
